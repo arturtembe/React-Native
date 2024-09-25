@@ -1,0 +1,77 @@
+# OSX
+#
+01_calcular_imc/.DS_Store
+
+# Xcode
+#
+01_calcular_imc/build/
+01_calcular_imc/*.pbxuser
+01_calcular_imc/!default.pbxuser
+01_calcular_imc/*.mode1v3
+01_calcular_imc/!default.mode1v3
+01_calcular_imc/*.mode2v3
+01_calcular_imc/!default.mode2v3
+01_calcular_imc/*.perspectivev3
+01_calcular_imc/!default.perspectivev3
+01_calcular_imc/xcuserdata
+01_calcular_imc/*.xccheckout
+01_calcular_imc/*.moved-aside
+01_calcular_imc/DerivedData
+01_calcular_imc/*.hmap
+01_calcular_imc/*.ipa
+01_calcular_imc/*.xcuserstate
+01_calcular_imc/**/.xcode.env.local
+
+# Android/IntelliJ
+#
+01_calcular_imc/build/
+01_calcular_imc/.idea
+01_calcular_imc/.gradle
+01_calcular_imc/local.properties
+01_calcular_imc/*.iml
+01_calcular_imc/*.hprof
+01_calcular_imc/.cxx/
+01_calcular_imc/*.keystore
+01_calcular_imc/!debug.keystore
+
+# node.js
+#
+01_calcular_imc/node_modules/
+01_calcular_imc/npm-debug.log
+01_calcular_imc/yarn-error.log
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/
+
+01_calcular_imc/**/fastlane/report.xml
+01_calcular_imc/**/fastlane/Preview.html
+01_calcular_imc/**/fastlane/screenshots
+01_calcular_imc/**/fastlane/test_output
+
+# Bundle artifact
+01_calcular_imc/*.jsbundle
+
+# Ruby / CocoaPods
+01_calcular_imc/**/Pods/
+01_calcular_imc/vendor/bundle/
+
+# Temporary files created by Metro to check the health of the file watcher
+01_calcular_imc/.metro-health-check*
+
+# testing
+01_calcular_imc/coverage
+
+# Yarn
+01_calcular_imc/.yarn/*
+01_calcular_imc/!.yarn/patches
+01_calcular_imc/!.yarn/plugins
+01_calcular_imc/!.yarn/releases
+01_calcular_imc/!.yarn/sdks
+01_calcular_imc/!.yarn/versions
+
+01_calcular_imc/.gitignore
+# 02 -
